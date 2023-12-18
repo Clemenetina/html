@@ -1,0 +1,17 @@
+h3{
+    color: burlywood;
+    font-size: 20px;
+    display: inline;
+    padding: 2px;
+    background-color: black;
+    margin-top: 20px;
+    
+}
+
+#cora:hover{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    letter-spacing: 20px;
+    text-align: center;
+}
